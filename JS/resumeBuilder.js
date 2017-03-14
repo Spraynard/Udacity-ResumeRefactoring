@@ -95,7 +95,7 @@ var project = {
 		dates : "November 10th, 2015 - Present",
 		description : "The current resume you are viewing now.<br><br><u><b>TECHNOLOGIES USED</b></u>:\
 						<ul><li>Object Oriented JavaScript</li><li>HTML</li><li>CSS</li>",
-		images : ["/images/TIGER.JPG"]
+		images : ["PICS/TIGER.JPG"]
 	}]
 };
 
@@ -132,7 +132,7 @@ var bio = {
 		"github" : "Spraynard",
 		"location" : "Kalamazoo, MI"
 	},
-	"picture" : "/images/FIRSTIMAGE.JPG",
+	"picture" : "PICS/FIRSTIMAGE.JPG",
 	"welcome" : "First of all, thank you for checking out my resume! I am an entry level web developer currently looking for work in any portion of the\
 					industry! Below you will be able to find my skills, experience, schools I've attended, and online courses that I have taken in order to \
 					brush my web development skills up to the expertise that they are currently at. If you want to contact me about any position, please do not\
@@ -172,7 +172,7 @@ var education = {
 		"degree" : "B.S.",
 		"major" : "Materials Science and Engineering",
 		"dates" : "2012 - 2014",
-		"seal" : "/images/MTUSEAL.JPG"
+		"seal" : "PICS/MTUSEAL.JPG"
 		},
 		{
 		"name" : "Western Michigan University",
@@ -181,7 +181,7 @@ var education = {
 		"degree" : "None",
 		"major" : "General Engineering",
 		"dates" : "2009 - 2012",
-		"seal" : "/images/WMUSEAL.PNG"
+		"seal" : "PICS/WMUSEAL.PNG"
 		}
 	],
 
